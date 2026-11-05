@@ -1,0 +1,15 @@
+{
+  "repository": "module-browser-game-collections-react-native",
+  "capabilityKey": "liberusoftware/module-browser-game-collections",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-browser-game-collections-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/browser-game/nextjs/collections.md",
+  "presentationPlan": "projects/browser-game/react-native/collections.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "browser-game"
+  ]
+}
